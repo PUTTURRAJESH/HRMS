@@ -1,2 +1,2 @@
-# HRMS
-HR Management System
+# Registration Form
+
